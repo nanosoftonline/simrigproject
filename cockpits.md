@@ -14,7 +14,7 @@
 </div>
 
 <div style="border: 1px solid lightgray; padding: 20px; margin-bottom: 20px" >
-    <img src="/img/sim3.webp" />
+    <img src="img/sim3.webp" />
     <p style="text-align: center; font-size:20px">Fig 3</p>
 </div>
 

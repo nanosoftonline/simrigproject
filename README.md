@@ -14,7 +14,7 @@
 
 ![](img/GT-F1-front.webp)
 
-![](img/f1-above.webp)
+![](img/F1-above.webp)
 
 
 ![](img/GT1.webp)

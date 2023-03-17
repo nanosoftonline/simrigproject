@@ -1,8 +1,10 @@
 ## Sim Rig Prototype Ideas
 
 
-![test](img/sim2.webp)
+![](img/sim2.webp)
 
-![test](img/sim3.webp)
+![](img/Formula-Simulator-Cool-Performance.webp)
 
-![test](img/sim1.png)
+![](img/sim3.webp)
+
+![](img/sim1.png)

@@ -14,9 +14,11 @@
     <div id="app"></div>
     <script>
         window.$docsify = {
-            loadSidebar: false,
+            loadSidebar: true,
             subMaxLevel: 0,
-
+            alias: {
+                '/.*/_sidebar.md': '/sidebar.md'
+            },
             name: 'Sim Rig Prototype',
             repo: ''
         }

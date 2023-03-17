@@ -25,7 +25,7 @@
 
 ![](img/download.png)
 
-![](img/15415919104_a0a5d24f73_o.jpg.jpg)
+![](img/15415919104_a0a5d24f73_o.jpg)
 
 ![](img/F1-GT-Simple-CutOuts-SheetStock_1024x1024.webp)
 

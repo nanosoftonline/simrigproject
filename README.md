@@ -3,6 +3,8 @@
 [Cockpits](/cockpits.md)
 
 [Base Plates](/base_plates.md)
+
+[Drilling Templates](/templates.md)
 ### Overview
 Sturdy Construction: A sim rig cockpit must be sturdy and durable to ensure the safety of the driver and the longevity of the equipment. The materials used should be of high quality, such as steel or aluminum, and the construction should be designed to withstand the stresses of racing simulation.
 

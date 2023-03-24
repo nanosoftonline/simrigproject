@@ -3,6 +3,8 @@
 
 [Base Plates](/base_plates.md)
 
+[Drilling Templates](/templates.md)
+
 <div style="border: 1px solid lightgray; padding: 20px; margin-bottom: 20px" >
     <img src="img/sim2.webp" />
     <p style="text-align: center; font-size:20px">Fig 1</p>

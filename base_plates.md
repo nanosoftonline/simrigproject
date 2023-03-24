@@ -2,6 +2,8 @@
 
 [Cockpits](/cockpits.md)
 
+[Drilling Templates](/templates.md)
+
 <div style="border: 1px solid lightgray; padding: 20px; margin-bottom: 20px" >
     <img src="img/TR80-NWMA-WM4.2_900x.webp" />
     <p style="text-align: center; font-size:20px">Fig 1</p>
